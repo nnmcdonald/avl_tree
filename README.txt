@@ -1,0 +1,1 @@
+avl.cpp contains fuctions to create and maintain an avl tree that stores integer values. avlMain.cpp takes one argument which specifies a text file to read integers from, it then creates an avl tree and prints the number of integers read, number of nodes in the tree, and the height of the tree. 
